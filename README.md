@@ -12,6 +12,14 @@
 <p>ระบบตรวจสอบชื่อผู้เล่นที่ไม่ถูกตามหลักของเซิร์ฟเวอร์จะไม่ให้เข้าสู่ระบบ by <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/PlusMeenDev">PlusMeenDev</a></p>
 <h3 align="left">✅ Giftbox System</h3>
 <p>ระบบรับของขวัญสำหรับผู้เริ่มต้น by <a href="https://github.com/exsycore">EasyCore</a></p>
+<h3 align="left">✅ Jobs System</h3>
+<p> ข้อมูลส่วนตัว ✅
+จัดการตัวละคร ❌
+กระเป๋าเก็บไอเทม ✅
+เรียกรถส่วนตัว [VIP] ✅
+เกี่ยวกับรถ ✅
+GPS ✅
+Donate ✅ by <a href="https://github.com/exsycore">EasyCore</a></p>
 <hr>
 <h3 align="center">Advances</h3>
 <h3 align="left">✅ Inventory with Dialog</h3>
