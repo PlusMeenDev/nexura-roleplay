@@ -17,7 +17,7 @@
 <h3 align="left">✅ Inventory with Dialog</h3>
 <p>ระบบกระเป๋าผู้เล่นในรูปแบบเทคดาว (Textdraws) by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ Dynamic Custom</h3>
-<p>ในเซิร์ฟเวอร์มี Dynamic ต่างๆมากมายเพื่อทำให้เซิฟง่ายขึ้น by <a href="https://github.com/exsycore">EasyCore</a></p>
+<p>ในเซิร์ฟเวอร์มี Dynamic ต่างๆมากมายเพื่อทำให้เซิฟง่ายขึ้น by <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/PlusMeenDev">PlusMeenDev</a></p>
 <h3 align="left">✅ MySQL Connects</h3>
 <p>ระบบเชื่อมต่อกับฐานข้อมูลแม่นยำมากๆๆๆอิอิ by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ Animation Fixes</h3>
