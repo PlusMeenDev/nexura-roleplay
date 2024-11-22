@@ -7,8 +7,7 @@
 เซิร์ฟเวอร์ไม่ดียังไงสามารถติชมหรือให้คำแนะนำกับเซิร์ฟของเราได้นะครับ จุ๊ฟๆ
 
 <hr>
-<h3 align="left">✅ Hungry & Progressbar</h3>
-<p>ค่าความหิวที่มีแรงบัลดาลใจจาก <a href="https://arizona-rp.com">Arizona Roleplay</a></p>
+<h3 align="center">Systems</h3>
 <h3 align="left">✅ Hungry & Progressbar</h3>
 <p>ค่าความหิวที่มีแรงบัลดาลใจจาก <a href="https://arizona-rp.com">Arizona Roleplay</a></p>
 <h3 align="left">✅ Set Spawnpoint</h3>
@@ -25,8 +24,15 @@
 <p> - งานเก้บแมงกระพรุน (Respawn Objects) <a href="https://github.com/PlusMeenDev">PlusMeenDev</a></p>
 <p> - งานเก้บหอย (Respawn Objects) <a href="https://github.com/PlusMeenDev">PlusMeenDev</a></p>
 <p> - งานตกปลา (Farm Autos) <a href="https://github.com/PlusMeenDev">PlusMeenDev</a></p>
+<h3 align="left">✅ Atms System</h3>
+<p>ระบบเอทีเอ็มแบบ (Textdraws) สามารถฝากถอนเงินโอนไวได้ by <a href="https://github.com/PlusMeenDev">PlusMeenDev</a></p>
+<h3 align="left">✅ Group System</h3>
+<p> - Group Gangs (กลุ่ม แก๊งค์) <a href="https://github.com/PlusMeenDev">PlusMeenDev</a></p>
+<p> - Group Polices (กลุ่ม ตำรวจ) <a href="https://github.com/PlusMeenDev">PlusMeenDev</a></p>
+<p> - Group Medical (กลุ่ม หมอ) <a href="https://github.com/PlusMeenDev">PlusMeenDev</a></p>
+<p> - Group Mechanic (กลุ่ม ช่าง) <a href="https://github.com/PlusMeenDev">PlusMeenDev</a></p>
 <hr>
-<h3 align="center">Advances</h3>
+<h3 align="center">Advanceds</h3>
 <h3 align="left">✅ Inventory with Dialog</h3>
 <p>ระบบกระเป๋าผู้เล่นในรูปแบบเทคดาว (Textdraws) by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ Dynamic Custom</h3>
@@ -35,4 +41,6 @@
 <p>ระบบเชื่อมต่อกับฐานข้อมูลแม่นยำมากๆๆๆอิอิ by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ Animation Fixes</h3>
 <p>แก้ไขท่าทางของผู้เล่นเมื่อกดใช้แล้วต้องกดใช้สองรอบ by <a href="https://github.com/exsycore">EasyCore</a></p>
+<h3 align="left">✅ Vehicles Dynamic</h3>
+<p>ระบบรถแบบ Dynamic สามารถจัดการในเซิร์ฟได้ by <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/PlusMeenDev">PlusMeenDev</a></p>
 <br>
