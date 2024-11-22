@@ -1,4 +1,4 @@
-<h1 align="center">เซิร์ฟเวอร์ UAE - United Arab Emirate</h1>
+<h1 align="center">เซิร์ฟเวอร์ NX:RP - Nexura Roleplay</h1>
 <h3 align="center">ความคืบหน้าของเซิร์ฟเวอร์</h3>
 
 <hr>
@@ -15,11 +15,11 @@
 <hr>
 <h3 align="center">Advances</h3>
 <h3 align="left">✅ Inventory with Dialog</h3>
-<p>ระบบกระเป๋าผู้เล่นในรูปแบบกล่องสี่เหลี่ยม ไดอะล็อก(Dialog) by <a href="https://github.com/exsycore">EasyCore</a></p>
-<h3 align="left">✅ Dynamic Pickups</h3>
-<p>การสร้าง Pickups โดยไม่ต้องแก้ไขในโค้ดของเซิร์ฟเวอร์ by <a href="https://github.com/exsycore">EasyCore</a></p>
-<h3 align="left">✅ MySQL connect</h3>
+<p>ระบบกระเป๋าผู้เล่นในรูปแบบเทคดาว (Textdraws) by <a href="https://github.com/exsycore">EasyCore</a></p>
+<h3 align="left">✅ Dynamic Custom</h3>
+<p>ในเซิร์ฟเวอร์มี Dynamic ต่างๆมากมายเพื่อทำให้เซิฟง่ายขึ้น by <a href="https://github.com/exsycore">EasyCore</a></p>
+<h3 align="left">✅ MySQL Connects</h3>
 <p>ระบบเชื่อมต่อกับฐานข้อมูลแม่นยำมากๆๆๆอิอิ by <a href="https://github.com/exsycore">EasyCore</a></p>
-<h3 align="left">✅ AnimationFix</h3>
-<p>แก้ไขท่าทางของผู้เล่นเมื่อกดใช้แล้วไม่เกิดอะไรขึ้น by <a href="https://github.com/exsycore">EasyCore</a></p>
+<h3 align="left">✅ Animation Fixes</h3>
+<p>แก้ไขท่าทางของผู้เล่นเมื่อกดใช้แล้วต้องกดใช้สองรอบ by <a href="https://github.com/exsycore">EasyCore</a></p>
 <br>
