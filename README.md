@@ -37,7 +37,8 @@
 <hr>
 <h3 align="center">Advanceds</h3>
 <h3 align="left">✅ Inventory with Dialog</h3>
-<p>ระบบกระเป๋าผู้เล่นในรูปแบบเทคดาว (Textdraws) by <a href="https://github.com/exsycore">EasyCore</a></p>
+<p>ระบบกระเป๋าผู้เล่นในรูปแบบเทคดาว (Textdraws) by <a href=![Uploading sa-mp-002.png…]()
+"https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ Dynamic Custom</h3>
 <p>ในเซิร์ฟเวอร์มี Dynamic ต่างๆมากมายเพื่อทำให้เซิฟง่ายขึ้น by <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
 <h3 align="left">✅ MySQL Connects</h3>
