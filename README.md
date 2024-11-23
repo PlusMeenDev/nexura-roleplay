@@ -31,6 +31,8 @@
 <p> - Group Polices (กลุ่ม ตำรวจ) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
 <p> - Group Medical (กลุ่ม หมอ) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
 <p> - Group Mechanic (กลุ่ม ช่าง) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
+<h3 align="left">✅ Cef System</h3>
+<p>ระบบ Cef Html by <a href="https://github.com/exsycore">EasyCore</a></p>
 <hr>
 <h3 align="center">Advanceds</h3>
 <h3 align="left">✅ Inventory with Dialog</h3>
