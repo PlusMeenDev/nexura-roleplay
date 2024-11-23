@@ -48,4 +48,4 @@
 <h3 align="left">✅ Vehicles Dynamic</h3>
 <p>ระบบรถแบบ Dynamic สามารถจัดการในเซิร์ฟได้ by <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
 <br>
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/meend3v/nexura-roleplay/blob/main/test.png)?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
