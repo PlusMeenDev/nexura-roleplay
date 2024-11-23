@@ -24,6 +24,7 @@
 <p> - งานเก้บแมงกระพรุน (Respawn Objects) <a href="https://github.com/meend3v">MeenCore</a></p>
 <p> - งานเก้บหอย (Respawn Objects) <a href="https://github.com/meend3v">MeenCore</a></p>
 <p> - งานตกปลา (Farm Autos) <a href="https://github.com/meend3v">MeenCore</a></p>
+<p> - งานเก็บต้นมะม่วง (Respawn Objects) <a href="https://github.com/meend3v">MeenCore</a></p>
 <h3 align="left">✅ Atms System</h3>
 <p>ระบบเอทีเอ็มแบบ (Textdraws) สามารถฝากถอนเงินโอนไวได้ by <a href="https://github.com/meend3v">MeenCore</a></p>
 <h3 align="left">✅ Group System</h3>
