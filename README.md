@@ -50,4 +50,4 @@
 <br>
 
 
-![alt-text](https://i.ibb.co/pLH38H0/sa-mp-928.png)
+![alt-text](https://github.com/meend3v/nexura-roleplay/blob/main/test.png)
