@@ -27,10 +27,10 @@
 <h3 align="left">✅ Atms System</h3>
 <p>ระบบเอทีเอ็มแบบ (Textdraws) สามารถฝากถอนเงินโอนไวได้ by <a href="https://github.com/meend3v">MeenCore</a></p>
 <h3 align="left">✅ Group System</h3>
-<p> - Group Gangs (กลุ่ม แก๊งค์) <a href="https://github.com/meend3v">MeenCore</a></p>
-<p> - Group Polices (กลุ่ม ตำรวจ) <a href="https://github.com/meend3v">MeenCore</a></p>
-<p> - Group Medical (กลุ่ม หมอ) <a href="https://github.com/meend3v">MeenCore</a></p>
-<p> - Group Mechanic (กลุ่ม ช่าง) <a href="https://github.com/meend3v">MeenCore</a></p>
+<p> - Group Gangs (กลุ่ม แก๊งค์) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
+<p> - Group Polices (กลุ่ม ตำรวจ) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
+<p> - Group Medical (กลุ่ม หมอ) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
+<p> - Group Mechanic (กลุ่ม ช่าง) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
 <hr>
 <h3 align="center">Advanceds</h3>
 <h3 align="left">✅ Inventory with Dialog</h3>
