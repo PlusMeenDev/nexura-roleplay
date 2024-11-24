@@ -1,7 +1,7 @@
 <h1 align="center">เซิร์ฟเวอร์ NX:RP - Nexura Roleplay</h1>
 <h3 align="center">ความคืบหน้าของเซิร์ฟเวอร์</h3>
 
-💖 Nexura Roleplay V1.1.3 มีดิสคอร์ดเป็นของตัวเองอยู่ที่นี่ [Discord อย่างเป็นทางการ](https://discord.gg/keA9Mg7hJj)
+💖 Nexura Roleplay V1.1.4 มีดิสคอร์ดเป็นของตัวเองอยู่ที่นี่ [Discord อย่างเป็นทางการ](https://discord.gg/keA9Mg7hJj)
 
 ### 👉 คุณสามารถสนับสนุนเซิร์ฟเวอร์ของเราเพื่อเป็นแนวทางแห่งการพัฒนาต่อไป
 เซิร์ฟเวอร์ไม่ดียังไงสามารถติชมหรือให้คำแนะนำกับเซิร์ฟของเราได้นะครับ จุ๊ฟๆ
@@ -25,6 +25,7 @@
 <p> - งานเก้บหอย (Respawn Objects) <a href="https://github.com/meend3v">MeenCore</a></p>
 <p> - งานตกปลา (Farm Autos) <a href="https://github.com/meend3v">MeenCore</a></p>
 <p> - งานเก็บต้นมะม่วง (Respawn Objects) <a href="https://github.com/meend3v">MeenCore</a></p>
+<p> - งานเลี้ยงวัว/ฆ่าวัว (-) <a href="https://github.com/meend3v">MeenCore</a></p>
 <h3 align="left">✅ Atms System</h3>
 <p>ระบบเอทีเอ็มแบบ (Textdraws) สามารถฝากถอนเงินโอนไวได้ by <a href="https://github.com/meend3v">MeenCore</a></p>
 <h3 align="left">✅ Group System</h3>
@@ -32,8 +33,8 @@
 <p> - Group Polices (กลุ่ม ตำรวจ) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
 <p> - Group Medical (กลุ่ม หมอ) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
 <p> - Group Mechanic (กลุ่ม ช่าง) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
-<h3 align="left">✅ Cef System</h3>
-<p>ระบบ Cef Html by <a href="https://github.com/exsycore">EasyCore</a></p>
+<h3 align="left">✅ CEF System</h3>
+<p>ระบบ CEF Java, Html by <a href="https://github.com/exsycore">EasyCore</a></p>
 <hr>
 <h3 align="center">Advanceds</h3>
 <h3 align="left">✅ Inventory with Dialog</h3>
