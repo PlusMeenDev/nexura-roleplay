@@ -15,24 +15,24 @@
 <h3 align="left">✅ Passport System</h3>
 <p>ระบบ Passport เพื่อป้องกันผู้ไม่หวังดีเข้ามาในเซิร์ฟเวอร์ (แค่เบื้องต้น) by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ Roleplay Name System</h3>
-<p>ระบบตรวจสอบชื่อผู้เล่นที่ไม่ถูกตามหลักของเซิร์ฟเวอร์จะไม่ให้เข้าสู่ระบบ by <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
+<p>ระบบตรวจสอบชื่อผู้เล่นที่ไม่ถูกตามหลักของเซิร์ฟเวอร์จะไม่ให้เข้าสู่ระบบ by <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meencore">MeenCore</a></p>
 <h3 align="left">✅ Giftbox System</h3>
 <p>ระบบรับของขวัญสำหรับผู้เริ่มต้น by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ IDCard System</h3>
-<p>ระบบทำบัตรประชาชนมี (NPC Talk) by <a href="https://github.com/meend3v">MeenCore</a></p>
+<p>ระบบทำบัตรประชาชนมี (NPC Talk) by <a href="https://github.com/meencore">MeenCore</a></p>
 <h3 align="left">✅ Jobs System</h3>
-<p> - งานเก้บแมงกระพรุน (Respawn Objects) <a href="https://github.com/meend3v">MeenCore</a></p>
-<p> - งานเก้บหอย (Respawn Objects) <a href="https://github.com/meend3v">MeenCore</a></p>
-<p> - งานตกปลา (Farm Autos) <a href="https://github.com/meend3v">MeenCore</a></p>
-<p> - งานเก็บต้นมะม่วง (Respawn Objects) <a href="https://github.com/meend3v">MeenCore</a></p>
-<p> - งานเลี้ยงวัว/ฆ่าวัว (-) <a href="https://github.com/meend3v">MeenCore</a></p>
+<p> - งานเก้บแมงกระพรุน (Respawn Objects) <a href="https://github.com/meencore">MeenCore</a></p>
+<p> - งานเก้บหอย (Respawn Objects) <a href="https://github.com/meencore">MeenCore</a></p>
+<p> - งานตกปลา (Farm Autos) <a href="https://github.com/meencore">MeenCore</a></p>
+<p> - งานเก็บต้นมะม่วง (Respawn Objects) <a href="https://github.com/meencore">MeenCore</a></p>
+<p> - งานเลี้ยงวัว/ฆ่าวัว (-) <a href="https://github.com/meencore">MeenCore</a></p>
 <h3 align="left">✅ Atms System</h3>
-<p>ระบบเอทีเอ็มแบบ (Textdraws) สามารถฝากถอนเงินโอนไวได้ by <a href="https://github.com/meend3v">MeenCore</a></p>
+<p>ระบบเอทีเอ็มแบบ (Textdraws) สามารถฝากถอนเงินโอนไวได้ by <a href="https://github.com/meencore">MeenCore</a></p>
 <h3 align="left">✅ Group System</h3>
-<p> - Group Gangs (กลุ่ม แก๊งค์) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
-<p> - Group Polices (กลุ่ม ตำรวจ) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
-<p> - Group Medical (กลุ่ม หมอ) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
-<p> - Group Mechanic (กลุ่ม ช่าง) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
+<p> - Group Gangs (กลุ่ม แก๊งค์) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meencore">MeenCore</a></p>
+<p> - Group Polices (กลุ่ม ตำรวจ) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meencore">MeenCore</a></p>
+<p> - Group Medical (กลุ่ม หมอ) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meencore">MeenCore</a></p>
+<p> - Group Mechanic (กลุ่ม ช่าง) <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meencore">MeenCore</a></p>
 <h3 align="left">✅ CEF System</h3>
 <p>ระบบ CEF Java, Html by <a href="https://github.com/exsycore">EasyCore</a></p>
 <hr>
@@ -41,11 +41,11 @@
 <p>ระบบกระเป๋าผู้เล่นในรูปแบบเทคดาว (Textdraws) by <a href=![Uploading sa-mp-002.png…]()
 "https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ Dynamic Custom</h3>
-<p>ในเซิร์ฟเวอร์มี Dynamic ต่างๆมากมายเพื่อทำให้เซิฟง่ายขึ้น by <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
+<p>ในเซิร์ฟเวอร์มี Dynamic ต่างๆมากมายเพื่อทำให้เซิฟง่ายขึ้น by <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meencore">MeenCore</a></p>
 <h3 align="left">✅ MySQL Connects</h3>
 <p>ระบบเชื่อมต่อกับฐานข้อมูลแม่นยำมากๆๆๆอิอิ by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ Animation Fixes</h3>
 <p>แก้ไขท่าทางของผู้เล่นเมื่อกดใช้แล้วต้องกดใช้สองรอบ by <a href="https://github.com/exsycore">EasyCore</a></p>
 <h3 align="left">✅ Vehicles Dynamic</h3>
-<p>ระบบรถแบบ Dynamic สามารถจัดการในเซิร์ฟได้ by <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meend3v">MeenCore</a></p>
+<p>ระบบรถแบบ Dynamic สามารถจัดการในเซิร์ฟได้ by <a href="https://github.com/exsycore">EasyCore</a>, <a href="https://github.com/meencore">MeenCore</a></p>
 <br>
